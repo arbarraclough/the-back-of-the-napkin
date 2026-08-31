@@ -6,7 +6,7 @@ prev: 02-which-problems-which-pictures-who-is-we
 next: 04-no-thanks-just-looking
 ---
 
-[[02-which-problems-which-pictures-who-is-we|‹ Previous]] | [[README|Home]] | [[04-no-thanks-just-looking|Next ›]]
+[‹ Previous](02-which-problems-which-pictures-who-is-we.md) | [Home](../README.md) | [Next ›](../part-2-discovering-ideas/04-no-thanks-just-looking.md)
 
 ---
 

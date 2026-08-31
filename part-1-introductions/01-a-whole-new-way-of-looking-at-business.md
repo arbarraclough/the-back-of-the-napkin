@@ -5,7 +5,7 @@ created: 2026-08-30
 next: 02-which-problems-which-pictures-who-is-we
 ---
 
-[[README|Home]] | [[02-which-problems-which-pictures-who-is-we|Next ›]]
+[Home](../README.md) | [Next ›](02-which-problems-which-pictures-who-is-we.md)
 
 ---
 

@@ -6,7 +6,7 @@ prev: 01-a-whole-new-way-of-looking-at-business
 next: 03-a-gamble-we-cant-lose-the-four-steps-of-visual-thinking
 ---
 
-[[01-a-whole-new-way-of-looking-at-business|‹ Previous]] | [[README|Home]] | [[03-a-gamble-we-cant-lose-the-four-steps-of-visual-thinking|Next ›]]
+[‹ Previous](01-a-whole-new-way-of-looking-at-business.md) | [Home](../README.md) | [Next ›](03-a-gamble-we-cant-lose-the-four-steps-of-visual-thinking.md)
 
 ---
 
