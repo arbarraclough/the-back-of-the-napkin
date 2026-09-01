@@ -10,4 +10,4 @@ next: 07-frameworks-for-showing
 
 ---
 
-# 6. The Squid: A Practical Lesson in Applied Imagination
+# 6. The SQVID: A Practical Lesson in Applied Imagination

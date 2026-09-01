@@ -11,7 +11,7 @@ The Back of the Napkin
 ├── Part 2 – Discovering Ideas
 │   ├── 4. No Thanks, Just Looking
 │   ├── 5. The Six Ways of Seeing
-│   ├── 6. The Squid: A Practical Lesson in Applied Imagination
+│   ├── 6. The SQVID: A Practical Lesson in Applied Imagination
 │   └── 7. Frameworks for Showing
 ├── Part 3 – Developing Ideas
 │   ├── 8. Showing & the Visual Thinking MBA
@@ -43,7 +43,7 @@ The Back of the Napkin
 
 4. [No Thanks, Just Looking](part-2-discovering-ideas/04-no-thanks-just-looking.md)
 5. [The Six Ways of Seeing](part-2-discovering-ideas/05-the-six-ways-of-seeing.md)
-6. [The Squid: A Practical Lesson in Applied Imagination](part-2-discovering-ideas/06-the-squid-a-practical-lesson-in-applied-imagination.md)
+6. [The SQVID: A Practical Lesson in Applied Imagination](part-2-discovering-ideas/06-the-sqvid-a-practical-lesson-in-applied-imagination.md)
 7. [Frameworks for Showing](part-2-discovering-ideas/07-frameworks-for-showing.md)
 
 ### Part 3: Developing Ideas
