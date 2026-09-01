@@ -48,7 +48,7 @@ The Back of the Napkin
 
 ### Part 3: Developing Ideas
 
-8. [Showing & the Visual Thinking MBA](part-3-developing-ideas/08-showing-and-the-visual-thinking-mba.md)
+8. [Showing & The Visual Thinking MBA](part-3-developing-ideas/08-showing-and-the-visual-thinking-mba.md)
 9. [Who Are Our Customers?](part-3-developing-ideas/09-who-are-our-customers.md)
 10. [How Many Are Buying?](part-3-developing-ideas/10-how-many-are-buying.md)
 11. [Where Is Our Business?](part-3-developing-ideas/11-where-is-our-business.md)
