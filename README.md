@@ -1,3 +1,10 @@
+---
+tags:
+  - books
+  - readme
+created: 2026-08-30
+---
+
 # The Back of the Napkin
 
 **The Back of the Napkin** is made up of 4 parts, consisting of 16 chapters, and 3 appendices.
