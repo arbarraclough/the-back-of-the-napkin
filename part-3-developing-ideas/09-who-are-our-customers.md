@@ -12,6 +12,8 @@ next: 10-how-many-are-buying
 
 # 9. Who Are Our Customers?
 
+> **"Framework 1: To show a who/what problem, use a portrait."**
+
 ## The Customer Crisis
 
 Businesses often don't know exactly who their customers are.
