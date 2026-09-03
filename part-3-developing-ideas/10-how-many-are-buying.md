@@ -12,6 +12,8 @@ next: 11-where-is-our-business
 
 # 10. How Many Are Buying?
 
+> **"Framework 2: To show a how much problem, use a chart."**
+
 ## Charts: General Rules of Thumb
 
 1. **It's the data that matters, so let it show.**
